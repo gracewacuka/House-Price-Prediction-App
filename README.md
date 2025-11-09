@@ -6,4 +6,4 @@ This project demonstrates how data science and machine learning can be applied t
 
 The app is built with Streamlit, providing an intuitive, interactive and user-friendly interface that allows users to test different property configurations and view instant predictions. The backend model is implemented using TensorFlow/Keras and Scikit-learn, ensuring reliable and efficient computation.
 
-This project is ideal for showcasing practical machine learning deployment — from data preprocessing and model training to integration within a live web application.
+This project is ideal for showcasing practical machine learning deployment, from data preprocessing and model training to integration within a live web application.
